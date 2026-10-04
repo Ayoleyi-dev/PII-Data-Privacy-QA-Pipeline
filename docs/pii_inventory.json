@@ -1,0 +1,45 @@
+{
+  "project_scope": "Synthetic customer data only. No real PII is included.",
+  "fields": [
+    {
+      "field": "customer_id",
+      "classification": "operational identifier",
+      "handling": "pseudonymized before analytical export"
+    },
+    {
+      "field": "full_name",
+      "classification": "direct identifier",
+      "handling": "removed from analytical export"
+    },
+    {
+      "field": "email",
+      "classification": "direct identifier",
+      "handling": "masked; raw value excluded from QA logs"
+    },
+    {
+      "field": "phone",
+      "classification": "direct identifier",
+      "handling": "masked; raw value excluded from QA logs"
+    },
+    {
+      "field": "date_of_birth",
+      "classification": "quasi-identifier",
+      "handling": "reduced to age band"
+    },
+    {
+      "field": "address",
+      "classification": "direct identifier",
+      "handling": "removed from analytical export"
+    },
+    {
+      "field": "region",
+      "classification": "quasi-identifier",
+      "handling": "retained for aggregate analysis"
+    },
+    {
+      "field": "account_status",
+      "classification": "non-sensitive operational field",
+      "handling": "retained"
+    }
+  ]
+}
