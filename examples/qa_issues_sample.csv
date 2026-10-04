@@ -1,0 +1,7 @@
+row_number,customer_ref,field,rule,severity,message
+12,4d0c25ff42b4,email,email_format,ERROR,Email format is invalid.
+13,a8b9abc98a8e,phone,phone_format,ERROR,Phone must use +234 followed by 10 digits.
+14,b257f6a2ddac,date_of_birth,required_field,ERROR,Required field 'date_of_birth' is missing.
+15,fd4d21cb6487,full_name,required_field,ERROR,Required field 'full_name' is missing.
+16,3379bd24514f,date_of_birth,future_date,ERROR,Date of birth cannot be in the future.
+17,75c679e665f7,customer_id,duplicate_customer_id,CRITICAL,Duplicate customer_id; first seen on row 6.

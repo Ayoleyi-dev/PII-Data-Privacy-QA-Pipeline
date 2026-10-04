@@ -1,0 +1,17 @@
+customer_id,full_name,email,phone,date_of_birth,address,region,account_status
+CUST-001,Amina Bello,amina.bello@example.com,+2348012345678,1997-03-12,"12 Adeola Street, Lagos",Lagos,active
+CUST-002,Tunde Okafor,tunde.okafor@example.com,+2348023456789,1992-07-21,"44 Allen Avenue, Ikeja",Lagos,active
+CUST-003,Chidinma Eze,chidinma.eze@example.com,+2348034567890,1989-11-03,"5 New Market Road, Enugu",Enugu,inactive
+CUST-004,Musa Abdullahi,musa.abdullahi@example.com,+2348045678901,2001-01-15,"7 Emir Road, Kano",Kano,active
+CUST-005,Funke Adebayo,funke.adebayo@example.com,+2348056789012,1995-06-08,"17 Ring Road, Ibadan",Oyo,active
+CUST-006,Ifeanyi Nwosu,ifeanyi.nwosu@example.com,+2348067890123,1990-09-27,"23 Aba Road, Port Harcourt",Rivers,active
+CUST-007,Zainab Ibrahim,zainab.ibrahim@example.com,+2348078901234,1998-02-19,"8 Ahmadu Bello Way, Kaduna",Kaduna,active
+CUST-008,Samuel Adeyemi,samuel.adeyemi@example.com,+2348089012345,1987-12-30,"31 Marina Road, Lagos",Lagos,inactive
+CUST-009,Ngozi Umeh,ngozi.umeh@example.com,+2348090123456,1993-05-17,"10 Zik Avenue, Awka",Anambra,active
+CUST-010,Yusuf Garba,yusuf.garba@example.com,+2348101234567,1999-10-11,"15 Airport Road, Abuja",FCT,active
+CUST-011,Bola Johnson,bola.johnsonexample.com,+2348112345678,1991-04-23,"22 Broad Street, Lagos",Lagos,active
+CUST-012,Halima Sani,halima.sani@example.com,080123,1996-08-14,"6 Zoo Road, Kano",Kano,active
+CUST-013,Emeka Obi,emeka.obi@example.com,+2348123456789,,"40 Mission Road, Benin City",Edo,active
+CUST-014,,grace.ekong@example.com,+2348134567890,1988-03-09,"11 Calabar Road, Calabar",Cross River,active
+CUST-015,Kemi Lawal,kemi.lawal@example.com,+2348145678901,2050-01-01,"9 Awolowo Way, Ikeja",Lagos,active
+CUST-005,Duplicate Record,duplicate@example.com,+2348156789012,1994-02-02,"99 Duplicate Street, Lagos",Lagos,active
